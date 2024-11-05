@@ -1,0 +1,14 @@
+{
+  "displayName": "Debugging with console",
+  "name": "debugging-with-console",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brenner de Araújo"
+  },
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
